@@ -1,0 +1,7 @@
+{
+  "name": "projeto_ionic_mercado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
